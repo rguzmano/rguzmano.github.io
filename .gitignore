@@ -1,0 +1,5 @@
+.history/
+.vs/
+.vscode/
+catalog/dist/
+catalog/node_modules/
